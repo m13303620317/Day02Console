@@ -63,14 +63,14 @@ namespace Day02Console
         static void Main(string[] args)
         {
             // Test
-            Calculator.Add(1.5, 3);
-            Calculator.Subtract(5, 6);
-            Calculator.Multiply(2, 1.9);
-            Calculator.Divide(8, 2);
-            Calculator.Divide(5, 0);
-            Calculator.Radication(4);
-            Calculator.Radication(-1);
-            Calculator.Power(4, 1.5);
+            //Calculator.Add(1.5, 3);
+            //Calculator.Subtract(5, 6);
+            //Calculator.Multiply(2, 1.9);
+            //Calculator.Divide(8, 2);
+            //Calculator.Divide(5, 0);
+            //Calculator.Radication(4);
+            //Calculator.Radication(-1);
+            //Calculator.Power(4, 1.5);
 
             Console.WriteLine("Welcome to access C# Calcultor, Now we will guide you to use the application.");
             Console.WriteLine("--------------------------------------------------");
